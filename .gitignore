@@ -1,0 +1,8 @@
+# Python specific
+__pycache__
+*.pyc
+*.egg-info
+
+# IDE/editor specific
+.idea/
+*.swp
